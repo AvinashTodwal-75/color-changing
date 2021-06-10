@@ -1,1 +1,2 @@
-# color-changing
+# collisionAlgorithm
+Algorithm to detect collision between two objects
